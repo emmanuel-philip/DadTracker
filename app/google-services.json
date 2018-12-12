@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74355279041",
+    "firebase_url": "https://dadtracker-d400f.firebaseio.com",
+    "project_id": "dadtracker-d400f",
+    "storage_bucket": "dadtracker-d400f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74355279041:android:d87e3e6f2fdba60f",
+        "android_client_info": {
+          "package_name": "com.emmanuelphilip.dadtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74355279041-mikd9l0f9fo6gv707lln7ni7pqrjbgq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emmanuelphilip.dadtracker",
+            "certificate_hash": "b9b60598b299c0a40e2bb5296fd334816e816af3"
+          }
+        },
+        {
+          "client_id": "74355279041-4jqdu6vmrk3f1jreiun0n0r2igf53rvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2ohVJqxXY5iuJm0d0XgT2U2XdeRU_tY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74355279041-4jqdu6vmrk3f1jreiun0n0r2igf53rvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
